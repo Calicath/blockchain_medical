@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\learned\\BlockChain\\FinalProject\\blockchain-medical\\contracts\\MedicalRecord.sol": {
+      "lastModificationDate": 1240428288000,
+      "contentHash": "7b259a4b7325947cfc8e20f228a67c87",
+      "sourceName": "contracts/MedicalRecord.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MedicalRecord"
+      ]
+    }
+  }
+}
